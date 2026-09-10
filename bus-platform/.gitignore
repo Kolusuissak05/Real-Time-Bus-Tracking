@@ -1,8 +1,7 @@
-   node_modules/
-   venv/
-   __pycache__/
-   *.pyc
-   .env
-   bustrack.db
-   dist/
-   .vscode/
+bus-platform/backend/venv/
+bus-platform/frontend/node_modules/
+bus-platform/backend/.env
+**/__pycache__/
+*.pyc
+bus-platform/backend/bustrack.db
+bus-platform/frontend/dist/
